@@ -1,0 +1,1 @@
+Product images are to be hosted on S3
